@@ -1,0 +1,24 @@
+KURULUM
+olibook dosyasını wamp64/www dosya klasörünün içine at.
+mysql'e giriş yap. SQL kısmını gir.
+"CREATE DATABASE olibook_db" sorgusunu çalıştır. (olibook_db bir database oluşturulmuş olucak)
+olibook_db database'inin İÇİNDEYKEN içeri aktar kısmında olibook/setup dosya konumunda bulunan 
+olibook_db.sql dosyasını seç ve çalıştır.
+
+TEBRİKLER!!!
+DATABASE'İ KURDUNUZ!!!
+AĞPDAKSĞDASKDSADĞAPKDA
+(AKIL SAĞLIĞIMI KAYBEDİYORUM (ÜSTÜME GELMEYİN))
+
+
+Tarayıcı bölümünden localhost/olibook/kayit_ol.php kısmından kayıt olup üye olarak giriş yapabilirsiniz.
+Ancak üye olarak kaydedilenler (panelden değiştirilmediği sürece) admin paneline erişim sağlayamazlar.
+(localhost/olibook/admin_anasayfa.php YAZSALAR BİLE giriş kısmına atıcak.)
+
+ADMİN DEFAULT HESAP->>>(ANASAYFAYA GİDİŞ BAĞLANTISI YOK ŞUANLIK)
+mail: admin@gmail.com
+şifre: 123
+
+UYE DEFAULT HESAP->>> 
+mail: user@gmail.com
+şifre: 123

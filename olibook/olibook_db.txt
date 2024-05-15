@@ -1,0 +1,2 @@
+Primary ID sıfırlama
+ALTER TABLE 'tabloadı' AUTO_INCREMENT = 1;
